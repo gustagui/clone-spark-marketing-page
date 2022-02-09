@@ -22,7 +22,7 @@ main {
 section {
     display: flex;
     flex-direction: column;
-    /* width: 60%; */
+    width: 60%; 
     padding: 50px;
 }
 
@@ -74,7 +74,7 @@ section {
 
 #logo-down {
     width: 200px;
-    margin-left: 40%;
+    margin-left: 60%;
 }
 
 
@@ -101,5 +101,9 @@ section {
 
     #container-btn {
         gap: 0;
+    }
+    #logo-down {
+        width: 200px;
+        margin-left: 40%;
     }
   }
