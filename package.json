@@ -1,0 +1,20 @@
+{
+  "name": "single-page",
+  "version": "1.0.0",
+  "description": "Clone project of dribbble: https://dribbble.com/shots/14953088-spark-marketing-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustagui/clone-spark-marketing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustagui/clone-spark-marketing-page/issues"
+  },
+  "homepage": "https://github.com/gustagui/clone-spark-marketing-page#readme"
+}
